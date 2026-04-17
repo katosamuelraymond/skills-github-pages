@@ -1,4 +1,4 @@
 ---
-title: "my first github page upload"
-date: 2026/17/4
+title: "Welcome to my blog"
+date: 2025-05-15
 ---
